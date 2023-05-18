@@ -9,7 +9,7 @@ This is a "lazy-student" blender node group repository to help my friends and co
 * Shader editor groups:
 	* Edited Principled BSDF points
 	* Texture mapping group node
-	* Shader presets (currently for Eevee
+	* Shader presets (currently mostly for Eevee)
 
 * Geometry node groups:
 	* Mirror in Geometry node editor
@@ -42,7 +42,7 @@ Credits:
 * Toon, Water Color and Gradient shaders = [Kevandram](https://www.youtube.com/@kevandram)
 * Cycles "friendly" Outline shader = [IkariShinji](https://blenderartists.org/t/backface-culling-doesnt-show-up-in-render/1111988/5)
 ---
-If there are any issues or ideas on what to add, contact here on GitHub in the issues tab, I check there from time to time.
+If there are any issues or ideas on what to add, contact here on GitHub, I check there from time to time.
 
 Feel free to credit, it is very appreciated.
 
