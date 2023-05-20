@@ -16,24 +16,24 @@ This is a "lazy-student" blender node group repository to help my friends and co
 		* simpleToonIslands
 		* Outline shader
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/shadNode.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/shadNode.png)
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/outlineNode.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/outlineNode.png)
 
 * Geometry node groups:
 	* Mirror in Geometry node editor
 	* Array in Geometry node editor
 	* True/False group node for XYZ values
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/geoNode.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/geoNode.png)
 
 * HDRI map packed inside (Alps Field 2k resolution) with Coordinated Mapping added
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/worldConfig.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/worldConfig.png)
 
 * Modificators on Cube (Bevel, Subdivision, Solidify(for Outline material only), Geometry nodes)
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/modif.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/modif.png)
 
 * Camera + Camera Track-To Constraint added
 
@@ -51,8 +51,8 @@ This is a "lazy-student" blender node group repository to help my friends and co
 
 * Render and Output settings for Cycles on GPU:
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/rendConfig.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/main/images/outConfig.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/rendConfig.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.1/images/outConfig.png)
 
 ---
 #### Notes:
