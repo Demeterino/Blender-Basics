@@ -19,9 +19,11 @@ This is a "lazy-student" blender node group repository to help my friends and co
 		* Outline Shader
 		* Hair Shader
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/shadNode.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outlineNode.png)
+<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/shadNode.png" width="100%"/>
+<p float="left">
+<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png" width="50%"/>
+<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outlineNode.png" width="40%"/>
+</p>
 
 * Geometry node groups:
 	* Mirror
@@ -31,19 +33,23 @@ This is a "lazy-student" blender node group repository to help my friends and co
 	* True/False group node for XYZ values and a variant for vectors
 	* To From Geometry Switch
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/geoNode.png)
+<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/geoNode.png" width="100%"/>
 
 * HDRI map packed inside (Alps Field 2k resolution) with Coordinated Mapping added
 * Dual HDRI setup fo lighting and background difference in a scene, with only packed HDRI image set
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/singleConfig.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/dualConfig.png)
+<p float="left">
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/singleConfig.png" width="40%"/>
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/dualConfig.png" width="40%"/>
+</p>
 
 * modifiers on Cube: Bevel, Subdivision, Solidify(for Outline only), Main Geometry node output, Grass Generator and Hair Generator
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/modif.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/grassModif.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairModif.png)
+<p float="left">
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/modif.png" width="30%"/>
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/grassModif.png" width="30%"/>
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairModif.png" width="30%"/>
+</p>
 
 * Camera + Camera Track-To Constraint added
 
@@ -61,8 +67,10 @@ This is a "lazy-student" blender node group repository to help my friends and co
 
 * Render and Output settings for Cycles on GPU:
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/rendConfig.png)
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outConfig.png)
+<p float="left">
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/rendConfig.png" width="30%"/>
+	<img src="https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outConfig.png" width="30%"/>
+</p>
 
 ---
 #### Notes:
