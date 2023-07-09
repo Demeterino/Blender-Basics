@@ -20,7 +20,7 @@ This is a "lazy-student" blender node group repository to help my friends and co
 		* Hair Shader
 
 ![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/shadNode.png)
-
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/hairNode.png)
 ![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/outlineNode.png)
 
 * Geometry node groups:
@@ -33,14 +33,10 @@ This is a "lazy-student" blender node group repository to help my friends and co
 
 ![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/geoNode.png)
 
-* Grass and Hair Generators
-
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/geoNode.png)
-
 * HDRI map packed inside (Alps Field 2k resolution) with Coordinated Mapping added
 * Dual HDRI setup fo lighting and background difference in a scene, with only packed HDRI image set
 
-![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/worldConfig.png)
+![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/singleConfig.png)
 ![Screenshot](https://github.com/Demeterino/Blender-Basics/blob/Version-1.5/images/dualConfig.png)
 
 * modifiers on Cube: Bevel, Subdivision, Solidify(for Outline only), Main Geometry node output, Grass Generator and Hair Generator
